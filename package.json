@@ -1,0 +1,23 @@
+{
+  "name": "com.amuzak.unityfuzzysearch",
+  "displayName": "Unity Fuzzy Search",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A custom fuzzy string search tool for Unity, useful for approximate string matching.",
+  "author": {
+    "name": "Rishav Banerjee",
+    "email": "rishavbanerjee1710@gmail.com"
+  },
+  "keywords": [
+    "fuzzy search",
+    "string matching",
+    "approximate search",
+    "fuzzy matching",
+    "unity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatamuzak/UnityFuzzySearch"
+  },
+  "license": "MIT"
+}
