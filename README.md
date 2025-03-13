@@ -29,6 +29,8 @@ https://github.com/ThatAmuzak/FastFuzzySearch.git
 
 and add it as a git package in the Unity Package Manager.
 
+![add_package_from_git](https://github.com/user-attachments/assets/f4a98601-ca61-41bf-a9da-66625c0bd212)
+
 ## Usage
 
 Simply use
