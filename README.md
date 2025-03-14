@@ -13,7 +13,8 @@ This is a very bare-bones package right now. Some of the items to check off befo
   - [ ] [Longest Common Subsequence](https://en.wikipedia.org/wiki/Longest_common_subsequence)
   - [ ] modified [Smith-Waterman](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm) from [fzf](https://github.com/junegunn/fzf/blob/master/src/algo/algo.go)
   - [ ] [Sublime Text's Fuzzy Matching Approach](https://github.com/forrestthewoods/lib_fts/blob/master/docs/fuzzy_match.md)
-- [ ] Implement different target heuristics, simialar to [TheFuzz](https://github.com/seatgeek/thefuzz)
+- [ ] Implement different target heuristics, similar to [TheFuzz](https://github.com/seatgeek/thefuzz)
+- [ ] Add regex based search queries, similar to [Emacs Orderless](https://github.com/oantolin/orderless)
 - [ ] Move the entire codebase to Burst for optimized searches on larger lists
 - [ ] Add Tests, samples, documentation
 - [ ] Extensibility for custom scoring functions
